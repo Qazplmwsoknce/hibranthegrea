@@ -4,7 +4,7 @@ if _G.MainScriptLoaded then
 end
 _G.MainScriptLoaded = true
 local Players = game:GetService("Players")
-local whitelist = { 8091080621, 8255792544, 5764721857, 7935693345,2664725473 } 
+local whitelist = { 8091080621, 8255792544, 5764721857, 7935693345, 2664725473, 1461522020 } 
 
 local player = game.Players.LocalPlayer
 local playerId = player.UserId
@@ -141,7 +141,7 @@ Tabs.Main:AddButton({
                         Title = "Confirm",
                         Callback = function()
 							local Players = game:GetService("Players")
-local whitelist = { 8091080621, 8255792544, 5764721857, 7935693345, 2664725473 } 
+local whitelist = { 8091080621, 8255792544, 5764721857, 7935693345, 2664725473, 1461522020 } 
 
 local player = game.Players.LocalPlayer
 local playerId = player.UserId
@@ -211,7 +211,7 @@ end)
                         Title = "Confirm",
                         Callback = function()
 							local Players = game:GetService("Players")
-local whitelist = { 8091080621, 8255792544, 5764721857, 7935693345, 2664725473 } 
+local whitelist = { 8091080621, 8255792544, 5764721857, 7935693345, 2664725473, 1461522020 } 
 
 local player = game.Players.LocalPlayer
 local playerId = player.UserId
@@ -258,7 +258,7 @@ local a=game:GetService("ReplicatedStorage")local b=game:GetService("Players")lo
                         Title = "Confirm",
                         Callback = function()
 				local Players = game:GetService("Players")
-local whitelist = { 2895004858, 8255792544, 5764721857, 7935693345, 2664725473 } 
+local whitelist = { 2895004858, 8255792544, 5764721857, 7935693345, 2664725473, 1461522020 } 
 
 local player = game.Players.LocalPlayer
 local playerId = player.UserId
